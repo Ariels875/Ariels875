@@ -2,7 +2,7 @@
 <h1>Greetings!👋</h1> 
 </div>
 
-<div style=" background-position: center; box-shadow: -10px 0 10px #ff7f50, 10px 0 10px #8a2be2;">
+<div style="box-shadow: -10px 0 10px #ff7f50, 10px 0 10px #8a2be2;">
 <img src="https://i.ibb.co/c8XMPdk/banner2.png">
 </div>
 
