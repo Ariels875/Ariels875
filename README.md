@@ -2,8 +2,8 @@
 <h1>Greetings!👋</h1> 
 </div>
 
-<div style="position: relative; width: 100%; height: 300px; background-image: url('https://i.ibb.co/hYktSGt/banback2.png'); background-size: cover; background-position: center; border-radius: 15px;box-shadow: -10px 0 10px #ff7f50, 10px 0 10px #8a2be2;">
-  <img src="https://i.ibb.co/jzJdtZx/Ariels875.png" alt="Texto alternativo" style="position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%); width: 150px; height: 151px; -webkit-mask-image: linear-gradient(to top, transparent 1%, black 10%); mask-image: linear-gradient(to top, transparent 1%, black 10%);">
+<div style=" background-position: center; box-shadow: -10px 0 10px #ff7f50, 10px 0 10px #8a2be2;">
+<img src="https://i.ibb.co/c8XMPdk/banner2.png">
 </div>
 
 ### About me
