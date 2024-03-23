@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://i.ibb.co/c8XMPdk/banner2.png">
+<img src="https://i.ibb.co/DLkBMYj/banner2.webp">
 </div>
 
 ### About me
