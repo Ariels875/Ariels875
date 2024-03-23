@@ -9,7 +9,7 @@
 ### About me
 - 🔭 I’m currently working on a chat in real time with autentificacion
 - 🌱 I’m currently learning Node js
-- 👄 I speak spanish (native speaker) and english.
+- 👄 I'm a native Spanish speaker and can also speak English at a good level.
 - 💬 Ask me about whatever you want because if I can help you then I'll do my best.
 - 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariels875/)
