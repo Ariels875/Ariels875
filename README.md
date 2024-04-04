@@ -1,10 +1,7 @@
 <div align="center">
 <h1>Greetings!👋</h1> 
-</div>
 
-<div align="center">
-<img src="https://imgur.com/6HkIeVc">
-</div>
+![Imgur](https://i.imgur.com/6HkIeVc.png)
 
 ### About me
 - 🔭 I’m currently working on a chat in real time with autentificacion
