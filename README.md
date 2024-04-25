@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Greetings!👋</h1> 
+<h1>Welcome!👋</h1> 
 
 ![Imgur](https://i.imgur.com/6HkIeVc.png)
 
@@ -10,7 +10,10 @@
 - 💬 Ask me about whatever you want because if I can help you then I'll do my best.
 - 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariels875/)
-- ⚡ Fun fact: I don't know how to tell good jokes.
+
+### You can check my CV here ⬇️
+
+https://97b2d98d.ariel-castro.pages.dev/
 
 ### My Skills ✅
 
