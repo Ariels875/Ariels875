@@ -11,9 +11,10 @@
 - 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariels875/)
 
+
 ### You can check my CV here ⬇️
 
-https://97b2d98d.ariel-castro.pages.dev/
+https://ariel-castro.pages.dev/
 
 ### My Skills ✅
 
