@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a chat in real time with autentificacion
 - 🌱 I’m currently learning Node js
 - 👄 I'm a native Spanish speaker and I have a good command of English.
-- 💬 Ask me about whatever you want because if I can help you then I'll do my best.
+- 💬 Feel free to ask me anything, and I'll do my best to help if I can.
 - 📫 How to reach me: <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariels875/)
 
