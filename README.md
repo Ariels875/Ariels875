@@ -4,8 +4,8 @@
 ![Imgur](https://i.imgur.com/6HkIeVc.png)
 
 ### About me
-- 🔭 I’m currently working on a chat in real time with autentificacion
-- 🌱 I’m currently learning Node js
+- 🔭 I’m  working on developing my skills to find a job.
+- 🌱 I’m currently learning Node js.
 - 👄 I'm a native Spanish speaker and I have a good command of English.
 - 💬 Feel free to ask me anything, and I'll do my best to help if I can.
 - 📫 How to reach me: <br>
