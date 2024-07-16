@@ -14,7 +14,7 @@
 
 ### You can check my Page here ⬇️
 
-[https://ariel-castro.pages.dev/](https://arielspage.pages.dev/)
+[https://arielspage.pages.dev/](https://arielspage.pages.dev/)
 
 ### My Skills ✅
 
