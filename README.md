@@ -12,9 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariels875/)
 
 
-### You can check my CV here ⬇️
+### You can check my Page here ⬇️
 
-https://ariel-castro.pages.dev/
+[https://ariel-castro.pages.dev/](https://arielspage.pages.dev/)
 
 ### My Skills ✅
 
@@ -28,11 +28,12 @@ https://ariel-castro.pages.dev/
 ![PHP](https://img.shields.io/badge/PHP-6C757D?style=for-the-badge&logo=php&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white
 )
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
 
 ### Skills that I'll learn soon 🕗
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![react native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
