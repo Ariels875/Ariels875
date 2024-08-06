@@ -8,17 +8,18 @@
 - 🌱 I’m currently learning Node js.
 - 👄 I'm a native Spanish speaker and I have a good command of English.
 - 💬 Feel free to ask me anything, and I'll do my best to help if I can.
-- 📫 How to reach me: <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariels875/)
 
+
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariels875) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariels875) 
 
 ### You can check my Page here ⬇️
 
-[https://arielspage.pages.dev/](https://arielspage.pages.dev/)
+[Click Me!](https://arielspage.pages.dev/)
 
 ### My Skills ✅
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -47,12 +48,9 @@
 
 ###
 
-
-
-
 ### Skills that I'll learn soon 🕗
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
@@ -70,14 +68,15 @@
 ### Check out this ⬇️
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariels875&theme=github_dark" alt="Summary" width="500px"></img>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariels875&layout=compact&theme=github_dark"  alt="Most used langs" width="280px"> </img>
-<div align="center">
-  
-###
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariels875&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ariels875&theme=shadow_blue&hide_border=false)<br/>
 
-<img src="https://raw.githubusercontent.com/Ariels875/Ariels875/output/snake.svg" alt="Snake animation" />
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-###
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ariels875&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+
 
 
 
