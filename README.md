@@ -40,7 +40,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  ![Astro](https://img.shields.io/badge/Astro-800080?style=for-the-badge&logo=astro&logoColor=white)
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -60,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  ![react native](https://img.shields.io/badge/React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
+  <img width="12" />
 </div>
 
 ###
@@ -71,9 +73,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariels875&layout=compact&theme=github_dark"  alt="Most used langs" width="280px"> </img>
 <div align="center">
   
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
 ###
 
 <img src="https://raw.githubusercontent.com/Ariels875/Ariels875/output/snake.svg" alt="Snake animation" />
