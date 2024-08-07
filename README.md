@@ -1,7 +1,7 @@
 <div align="center">
-<h1>Welcome!👋</h1> 
+<h1>Hey, I'm Ariel Castro! 👋</h1>
 
-![Imgur](https://i.imgur.com/6HkIeVc.png)
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 
 ### About me
 - 🔭 I’m  working on developing my skills to find a job.
