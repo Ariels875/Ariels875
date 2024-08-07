@@ -1,11 +1,12 @@
 <div align="center">
 <h1>Hey, I'm Ariel Castro! 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineer;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 
 ### About me
-- 🔭 I’m  working on developing my skills to find a job.
-- 🌱 I’m currently learning Node js.
+- 🔭 I’m  looking to get better every day.
+- 👀 I'm open to work.
+- 🌱 I’m currently learning Three JS.
 - 👄 I'm a native Spanish speaker and I have a good command of English.
 - 💬 Feel free to ask me anything, and I'll do my best to help if I can.
 
@@ -15,7 +16,7 @@
 
 ### You can check my Page here ⬇️
 
-[Click Me!](https://arielspage.pages.dev/)
+[Click Me!](https://ariels.pages.dev/)
 
 ### My Skills ✅
 
