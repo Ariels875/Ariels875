@@ -68,8 +68,9 @@
 
 ### Check out this ⬇️
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariels875&theme=shadow_blue&hide_border=false" alt="Summary" width="500px"></img>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariels875&theme=midnight_purple" alt="Summary" width="500px"></img>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariels875&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ariels875&theme=shadow_blue&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
