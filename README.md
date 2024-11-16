@@ -1,20 +1,21 @@
 <div align="center">
 <h1>Hey, I'm Ariel Castro! 👋</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Engineer;Full+Stack+Web+Developer;Freelancer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Engineer;Full+Stack+Developer;Freelancer;TypeScript%20|%20React%20|%20SQLite%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 
 ### About me
-- 🔭 I’m  looking to get better every day.
-- 👀 I'm open to work.
-- 🌱 I’m currently learning Three JS.
-- 👄 I'm a native Spanish speaker and I have a good command of English.
-- 💬 Feel free to ask me anything, and I'll do my best to help if I can.
+- 🔭 I love learning new things.
+- 👀 I'm looking for a job right now.
+- 🌱 I’m currently learning TypeScript for backend.
+- 👄 I'm a native Spanish speaker who also speaks English.
+- 💬 Feel free to ask me anything, and I'll do my best to help.
 
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariels875) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariels875) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ariels875) 
 
-### You can check my Page here ⬇️
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariels875) 
+### You can check my projects here ⬇️
 
 [Click Me!](https://ariels.pages.dev/)
 
@@ -22,6 +23,8 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -52,8 +55,6 @@
 ### Skills that I'll learn soon 🕗
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
