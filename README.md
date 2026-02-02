@@ -6,7 +6,7 @@
 ### About me
 - 🔭 I love learning new things.
 - 👀 I'm looking for a job right now.
-- 🌱 I’m currently learning TypeScript for backend.
+- 🌱 I’m currently learning OWASP TOP 10
 - 👄 I'm a native Spanish speaker who also speaks English.
 - 💬 Feel free to ask me anything, and I'll do my best to help.
 
