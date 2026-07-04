@@ -17,7 +17,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ariels875) 
 ### You can check my projects here ⬇️
 
-[Click Me!](https://ariels.pages.dev/)
+[Click Me!](https://ariels.is-a.dev/)
 
 ### My Skills ✅
 
@@ -68,16 +68,16 @@
 
 ### Check out this ⬇️
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ariels875&theme=midnight_purple" alt="Summary" width="500px"></img>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariels875&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariels4u4&theme=midnight_purple" alt="Summary" width="500px"></img>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ariels4u4&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ariels875&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ariels4u4&theme=shadow_blue&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ariels875&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ariels4u4&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 
 
